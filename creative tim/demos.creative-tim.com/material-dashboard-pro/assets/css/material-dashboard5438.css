@@ -7041,8 +7041,8 @@ fieldset[disabled] .navbar .navbar-nav>li>a.btn.btn-default.active {
 .btn.btn-default.btn-simple,
 .navbar .navbar-nav>li>a.btn.btn-simple,
 .navbar .navbar-nav>li>a.btn.btn-default.btn-simple {
-    background-color: transparent;
-    color: #999999;
+    background-color: #43C664;
+    color: #f5f5f5;
     box-shadow: none;
 }
 
@@ -7058,8 +7058,8 @@ fieldset[disabled] .navbar .navbar-nav>li>a.btn.btn-default.active {
 .navbar .navbar-nav>li>a.btn.btn-default.btn-simple:hover,
 .navbar .navbar-nav>li>a.btn.btn-default.btn-simple:focus,
 .navbar .navbar-nav>li>a.btn.btn-default.btn-simple:active {
-    background-color: transparent;
-    color: #999999;
+    background-color: rgb(67, 151, 88);
+    color: #f5f5f5;
 }
 
 .btn.btn-primary,
@@ -8342,12 +8342,12 @@ h6,
 }
 
 a {
-    color: #9c27b0;
+    color: #43C664;
 }
 
 a:hover,
 a:focus {
-    color: #89229b;
+    color: #0d0c0e;
     text-decoration: none;
 }
 
